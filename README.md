@@ -71,10 +71,10 @@ src/
 ## 📸 Screenshots
 
 ### Light Mode
-![Light Mode Preview](./assets/light-mode.png)
+![Light Mode Preview](src/assets/light-mode.png)
 
 ### Dark Mode
-![Dark Mode Preview](./assets/dark-mode.png)
+![Dark Mode Preview](src/assets/dark-mode.png)
 
 ## 🤝 Contributing
 
